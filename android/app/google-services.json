@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "500748855733",
+    "project_id": "lifeloop-bf054",
+    "storage_bucket": "lifeloop-bf054.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:500748855733:android:a87b2cd595d511a43fd1fc",
+        "android_client_info": {
+          "package_name": "com.example.lifeloop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhbDpK6PYWslR9-8zDN303v-ueRBBQpZU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
